@@ -115,6 +115,10 @@ footer{
   color:#fff;
   background-color:#e8491d;
   text-align:center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 /* Rules */
