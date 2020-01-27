@@ -120,10 +120,3 @@ footer{
   bottom: 0;
   width: 100%;
 }
-
-/* Rules */
-#rules{
-  min-height:1500px;
-  background:url('../img/rules.png');
-  text-align:center;
-  color:#fff;
