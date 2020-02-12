@@ -23,13 +23,13 @@ ul{
   border:0;
   padding:left 20px;
   padding:right 20px;
-  color:#fff
+  color:#fff;
 }
 
 /* Header */
 header{
   background-color:#35424a;
-  color:#ffffff;
+  color:#fff;
   padding-top:30px;
   min-height:70px;
   border-bottom:#fcb000 3px solid;
@@ -83,9 +83,12 @@ header a:hover{
   margin-top:100px;
   font-size:55px;
   margin-bottom:10px;
+  color:#fff;
+  background-color: #35424a;
 }
 #showcase p{
-  font-size:20px
+  font-size:20px;
+  background-color: #e8491d;
 }
 
 #newsletter{
@@ -110,13 +113,14 @@ header a:hover{
 }
 
 footer{
-  padding:5px;
-  margin-top:267px;
+  padding:0.5px;
+  margin-top:10px;
   color:#fff;
-  background-color:#e8491d;
   text-align:center;
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width:20%;
+  background-color:#000;
+  opacity: 0.5;
 }
